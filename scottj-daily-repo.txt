@@ -1,0 +1,6 @@
+Course Lab
+- Create an ALB
+- Create a Launch Template for the EC2 instances
+- Configure an ASG to leverage the EC2 Launch templates
+- ALB will distribute traffic to the provisoned instances
+- Run stress tests to simulate scaling
