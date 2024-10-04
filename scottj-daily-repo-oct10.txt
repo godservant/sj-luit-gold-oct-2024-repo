@@ -1,0 +1,10 @@
+Labwork
+	
+	 - Create Amazon VPC and Subnets
+	 - Configure vpc subnets
+	 - Create & attach an Internet Gateway
+	 - IGW creation , route tables and adding route
+	 - Create multiple Inbound rules
+	 - Spin up ec2 instances
+	 - Private & Public subnets
+	 - Clean up resources afterwards.
