@@ -1,0 +1,11 @@
+Host ec2-instance-1
+    HostName <Public_IP_or_DNS_of_EC2_1>
+    User ec2-user
+    IdentityFile ~/.ssh/mykey.pem
+    Port 22
+
+Host ec2-instance-2
+    HostName <Public_IP_or_DNS_of_EC2_2>
+    User ec2-user
+    IdentityFile ~/.ssh/mykey.pem
+    Port 22
