@@ -1,0 +1,5 @@
+- Background on the history of linux from Carl Hayes
+- Benefits of open source as well as cost savings with licensing
+- Free is nice!
+- Freedom to distribute copies
+- Many flavors of linux to choose from
