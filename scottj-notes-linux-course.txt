@@ -1,0 +1,7 @@
+- different distros of linux
+- history of common operating systems.
+- welcome to the course.
+- why learn the command line.
+- using a terminal to view & write commands.
+- Understanding the prompt.
+- getting into more linux commands.
