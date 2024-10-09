@@ -1,0 +1,5 @@
+- More working with Linux
+- Command basics
+- Using man & info for help
+- navigation, root directory, home directory
+- pwd, ls & cd commands
