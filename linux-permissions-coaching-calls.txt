@@ -1,0 +1,37 @@
+- Understanding permissions
+
+drwxr-x--- 15 ubuntu ubuntu 4096 Oct 12 19:37  ./
+drwxr-xr-x  3 root   root   4096 Sep 18 22:50  ../
+-rw-------  1 ubuntu ubuntu 4889 Oct 12 18:12  .bash_history
+-rw-r--r--  1 ubuntu ubuntu  220 Mar 31  2024  .bash_logout
+-rw-r--r--  1 ubuntu ubuntu 3771 Mar 31  2024  .bashrc
+drwx------  2 ubuntu ubuntu 4096 Sep 18 22:58  .cache/
+drwx------  4 ubuntu ubuntu 4096 Oct 12 20:51  .config/
+-rw-------  1 ubuntu ubuntu   34 Oct 12 19:20  .lesshst
+drwxrwxr-x  3 ubuntu ubuntu 4096 Oct 10 20:31  .local/
+-rw-r--r--  1 ubuntu ubuntu  807 Mar 31  2024  .profile
+drwx------  2 ubuntu ubuntu 4096 Sep 18 22:50  .ssh/
+-rw-r--r--  1 ubuntu ubuntu    0 Sep 19 20:51  .sudo_as_admin_successful
+-rw-------  1 ubuntu ubuntu 8901 Oct 12 19:37  .viminfo
+drwxrwxr-x  2 ubuntu ubuntu 4096 Oct 10 19:11  Adulting/
+drwxrwxr-x  2 ubuntu ubuntu 4096 Oct 10 19:10  Cleanup/
+drwxrwxr-x  4 ubuntu ubuntu 4096 Oct 12 19:37  Desktop/
+drwxrwxr-x  2 ubuntu ubuntu 4096 Oct 11 18:33  Dogs/
+drwxrwxr-x  2 ubuntu ubuntu 4096 Oct 10 19:11  Keekats/
+drwxrwxr-x  3 ubuntu ubuntu 4096 Oct  1 21:09  Websites/
+-rw-rw-r--  1 ubuntu ubuntu    0 Oct 11 18:44  bucky
+-rw-rw-r--  1 ubuntu ubuntu    0 Oct 10 18:37  hildy
+-rw-rw-r--  1 ubuntu ubuntu    0 Oct 10 18:37  jack
+-rw-rw-r--  1 ubuntu ubuntu    0 Oct 11 18:44  kiddo
+drwxrwxr-x  6 ubuntu ubuntu 4096 Oct  7 14:46  linux-course/
+-rw-rw-r--  1 ubuntu ubuntu    0 Oct 10 18:37  mudpie
+-rw-rw-r--  1 ubuntu ubuntu    0 Oct 10 18:58  my
+-rw-rw-r--  1 ubuntu ubuntu    0 Oct 10 18:59 'my website'
+drwxrwxr-x  4 ubuntu ubuntu 4096 Oct 10 19:31  my-app/
+-rw-rw-r--  1 ubuntu ubuntu 4306 Sep 18 23:18  poem.txt
+drwxrwxr-x  2 ubuntu ubuntu 4096 Oct 10 19:17  project/
+-rw-rw-r--  1 ubuntu ubuntu    0 Oct 11 18:44  red
+-rw-rw-r--  1 ubuntu ubuntu    0 Oct 11 18:44  roo
+-rw-rw-r--  1 ubuntu ubuntu    0 Oct 10 18:58  website
+-rw-rw-r--  1 ubuntu ubuntu   55 Oct 10 20:36  yackadoo.txt
+-rw-rw-r--  1 ubuntu ubuntu   84 Oct 10 20:46  yardTodos.txt
