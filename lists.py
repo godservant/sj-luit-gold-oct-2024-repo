@@ -54,10 +54,12 @@ for list_element in list_of_lists:
     print(list_element)
     for element in list_element:
         print(element)
-        
+                
 second_list_of_lists = [[0, 1, 2] for i in range(4)]
 
 print(second_list_of_lists)
+
+
     
 
 
