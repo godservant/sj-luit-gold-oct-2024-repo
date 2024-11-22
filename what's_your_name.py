@@ -17,4 +17,8 @@ if __name__ == '__main__':
     print_full_name(first_name, last_name)
     
 # print("Hello " + first + " " + last + "! You just delved into python.")
+
+#print("Hello {} {} ! You just delved into python.".format(first, last))
+  
+  
     
